@@ -1,0 +1,48 @@
+body{
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+    background-color:rgb(105, 154, 102);
+}
+h3{
+    font-family: impact;
+    letter-spacing:3px;
+    font-style: italic;
+    color: brown;
+}
+fieldset{
+    border-color: rgb(51, 74, 96);
+    width:40%;
+    border-radius: 10px;
+}
+.r{
+    margin-left:34%;
+}
+.t{
+    border-radius: 20px;
+    height:430px;
+    width:98%;
+}
+a{
+    text-decoration: none;
+    font-size: 15px;
+    border-color: rgb(249, 219, 219);
+    border-width:1px;
+    border-style: solid;
+    border-radius:4px;
+    color:white;
+    font-family:Tahoma, sans-serif;
+    background-color: rgb(112, 40, 29);
+    padding: 3px 20px;
+}
+legend{
+    color:brown;
+    font-size: 25px;
+}
+hr{
+    width:700px;
+}
+ruby{
+    color: rgb(218, 209, 209);
+    text-align: center;
+}
